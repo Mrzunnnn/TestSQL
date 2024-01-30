@@ -25,4 +25,7 @@ Chạy SQL script để tạo database, bảng và nhập dữ liệu vào các 
 Chạy tuần tự các scrip sau: table.sql 
 
 
-Sơ đồ cơ sở dữ liệu :
+Sơ đồ cơ sở dữ liệu : ![SQL relationship.png](SQL%20relationship.png)
+
+
+Chi tiết database design :https://d.docs.live.net/a9e3d304285271fb/Ta%CC%80i%20li%C3%AA%CC%A3u/SQL.xlsx
