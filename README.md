@@ -22,7 +22,9 @@ Hướng dẫn cài đặt MySQL Workbench
 
 Chạy SQL script để tạo database, bảng và nhập dữ liệu vào các bảng
 
-Chạy tuần tự các scrip sau: https://github.com/Mrzunnnn/TestSQL/blob/main/table.sql   
+Chạy tuần tự các scrip sau:
+
+https://github.com/Mrzunnnn/TestSQL/blob/main/table.sql  | https://github.com/Mrzunnnn/TestSQL/blob/main/queries.sql 
 
 
 Sơ đồ cơ sở dữ liệu : ![SQL relationship.png](SQL%20relationship.png)
